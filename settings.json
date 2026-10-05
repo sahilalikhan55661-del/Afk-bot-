@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
-    "version": "1.20.1",
+    "ip": "Bladermc.aternos.me:",
+    "port": 19916,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
